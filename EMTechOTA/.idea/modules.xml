@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EMTechOTA.iml" filepath="$PROJECT_DIR$/EMTechOTA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blelibrary/blelibrary.iml" filepath="$PROJECT_DIR$/blelibrary/blelibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gaialibrary/gaialibrary.iml" filepath="$PROJECT_DIR$/gaialibrary/gaialibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vmupgradelibrary/vmupgradelibrary.iml" filepath="$PROJECT_DIR$/vmupgradelibrary/vmupgradelibrary.iml" />
+    </modules>
+  </component>
+</project>

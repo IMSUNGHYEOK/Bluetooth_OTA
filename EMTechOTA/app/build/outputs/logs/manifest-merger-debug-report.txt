@@ -1,0 +1,362 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:5:1-135:12
+INJECTED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:5:1-135:12
+INJECTED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:5:1-135:12
+INJECTED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:5:1-135:12
+MERGED from [:blelibrary] C:\Users\user\Desktop\Controler\EMTechOTA\blelibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:1-25:12
+MERGED from [:gaialibrary] C:\Users\user\Desktop\Controler\EMTechOTA\gaialibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:1-22:12
+MERGED from [:vmupgradelibrary] C:\Users\user\Desktop\Controler\EMTechOTA\vmupgradelibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:1-22:12
+MERGED from [com.android.support:design:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\62f52573b0cb4a7f530f903fa4a8f368\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\397810ba7e3999bfbf3b76f43f992744\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\71959656807e22489e850b3d38a87c61\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\551958d83966181db3321f57f28d1b2e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\ca570d4947cc178b739faa72a9b5081a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\43234cbfb1e6242ab97bf3598a9a7198\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\3d003f5ecff0766290a9a613c728d2c4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\7831df23fac2f13ba7fc28fa05c5ab01\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\dce37c5aed22dad0dad8269bc63f92f1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\d979bf2707b83dd72b3e9997ea8f6064\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\b03f21fe8f0a875bee1a899bad992ef6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ac7fa8dd090a2ba42c990731b75583ba\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:5:1-135:12
+INJECTED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:5:1-135:12
+INJECTED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:5:1-135:12
+	package
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:5:11-47
+		INJECTED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:5:1-135:12
+		INJECTED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:7:11-57
+	android:versionCode
+		INJECTED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:5:1-135:12
+		INJECTED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:6:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:9:5-68
+MERGED from [:blelibrary] C:\Users\user\Desktop\Controler\EMTechOTA\blelibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:5-68
+MERGED from [:blelibrary] C:\Users\user\Desktop\Controler\EMTechOTA\blelibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:9:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:10:5-74
+MERGED from [:blelibrary] C:\Users\user\Desktop\Controler\EMTechOTA\blelibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:5-74
+MERGED from [:blelibrary] C:\Users\user\Desktop\Controler\EMTechOTA\blelibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:5-74
+	android:name
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:10:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:12:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:15:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:16:5-78
+	android:name
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:16:22-76
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:18:5-20:35
+	android:required
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:20:9-32
+	android:name
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:19:9-53
+application
+ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:22:5-133:19
+MERGED from [:blelibrary] C:\Users\user\Desktop\Controler\EMTechOTA\blelibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:19:5-23:19
+MERGED from [:blelibrary] C:\Users\user\Desktop\Controler\EMTechOTA\blelibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:19:5-23:19
+MERGED from [:gaialibrary] C:\Users\user\Desktop\Controler\EMTechOTA\gaialibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:5-20:19
+MERGED from [:gaialibrary] C:\Users\user\Desktop\Controler\EMTechOTA\gaialibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:5-20:19
+MERGED from [:vmupgradelibrary] C:\Users\user\Desktop\Controler\EMTechOTA\vmupgradelibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:5-20:19
+MERGED from [:vmupgradelibrary] C:\Users\user\Desktop\Controler\EMTechOTA\vmupgradelibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:5-20:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\62f52573b0cb4a7f530f903fa4a8f368\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\62f52573b0cb4a7f530f903fa4a8f368\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\397810ba7e3999bfbf3b76f43f992744\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\397810ba7e3999bfbf3b76f43f992744\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\551958d83966181db3321f57f28d1b2e\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\551958d83966181db3321f57f28d1b2e\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\ca570d4947cc178b739faa72a9b5081a\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\ca570d4947cc178b739faa72a9b5081a\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\43234cbfb1e6242ab97bf3598a9a7198\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\43234cbfb1e6242ab97bf3598a9a7198\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\3d003f5ecff0766290a9a613c728d2c4\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\3d003f5ecff0766290a9a613c728d2c4\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\7831df23fac2f13ba7fc28fa05c5ab01\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\7831df23fac2f13ba7fc28fa05c5ab01\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\dce37c5aed22dad0dad8269bc63f92f1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\dce37c5aed22dad0dad8269bc63f92f1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\d979bf2707b83dd72b3e9997ea8f6064\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\d979bf2707b83dd72b3e9997ea8f6064\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\b03f21fe8f0a875bee1a899bad992ef6\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\b03f21fe8f0a875bee1a899bad992ef6\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ac7fa8dd090a2ba42c990731b75583ba\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ac7fa8dd090a2ba42c990731b75583ba\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:25:9-41
+	tools:ignore
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:28:9-60
+	android:icon
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:24:9-41
+	android:allowBackup
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:27:9-40
+activity#com.qualcomm.qti.EMTechOTA.activities.DeviceDiscoveryActivity
+ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:30:9-39:20
+	android:screenOrientation
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:34:13-49
+	android:label
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:33:13-45
+	android:configChanges
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:32:13-48
+	android:name
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:31:13-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:36:17-68
+	android:name
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:37:17-76
+	android:name
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:37:27-74
+activity#com.qualcomm.qti.EMTechOTA.activities.MainActivity
+ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:41:9-46:20
+	android:screenOrientation
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:44:19-55
+	android:parentActivityName
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:45:19-83
+	android:label
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:42:19-51
+	android:configChanges
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:43:19-54
+	android:name
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:41:19-58
+activity#com.qualcomm.qti.EMTechOTA.activities.InformationActivity
+ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:48:9-53:20
+	android:screenOrientation
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:51:19-55
+	android:parentActivityName
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:52:19-72
+	android:label
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:49:19-68
+	android:configChanges
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:50:19-54
+	android:name
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:48:19-65
+activity#com.qualcomm.qti.EMTechOTA.activities.RemoteActivity
+ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:55:9-60:20
+	android:screenOrientation
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:58:19-55
+	android:parentActivityName
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:59:19-72
+	android:label
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:56:19-63
+	android:configChanges
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:57:19-54
+	android:name
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:55:19-60
+activity#com.qualcomm.qti.EMTechOTA.activities.TWSActivity
+ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:62:9-67:20
+	android:screenOrientation
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:65:19-55
+	android:parentActivityName
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:66:19-72
+	android:label
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:63:19-60
+	android:configChanges
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:64:19-54
+	android:name
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:62:19-57
+activity#com.qualcomm.qti.EMTechOTA.activities.EqualizerActivity
+ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:69:9-75:20
+	android:screenOrientation
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:73:17-53
+	android:parentActivityName
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:74:17-70
+	android:label
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:71:17-64
+	android:configChanges
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:72:17-52
+	android:name
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:70:17-61
+activity#com.qualcomm.qti.EMTechOTA.activities.CustomEqualizerActivity
+ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:77:9-83:20
+	android:screenOrientation
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:82:13-49
+	android:parentActivityName
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:79:13-71
+	android:label
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:80:13-67
+	android:configChanges
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:81:13-48
+	android:name
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:78:13-63
+activity#com.qualcomm.qti.EMTechOTA.activities.UpgradeActivity
+ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:85:9-91:20
+	android:screenOrientation
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:90:13-49
+	android:parentActivityName
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:89:13-66
+	android:label
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:88:13-58
+	android:configChanges
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:87:13-48
+	android:name
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:86:13-55
+activity#com.qualcomm.qti.EMTechOTA.activities.ProximityActivity
+ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:93:9-99:20
+	android:screenOrientation
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:98:13-49
+	android:parentActivityName
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:97:13-66
+	android:label
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:96:13-60
+	android:configChanges
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:95:13-48
+	android:name
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:94:13-57
+activity#com.qualcomm.qti.EMTechOTA.activities.FindMeActivity
+ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:101:9-107:20
+	android:screenOrientation
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:106:13-49
+	android:parentActivityName
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:105:13-66
+	android:label
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:104:13-58
+	android:configChanges
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:103:13-48
+	android:name
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:102:13-54
+activity#com.qualcomm.qti.EMTechOTA.activities.BatteryActivity
+ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:109:9-115:20
+	android:screenOrientation
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:114:13-49
+	android:parentActivityName
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:113:13-66
+	android:label
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:112:13-58
+	android:configChanges
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:111:13-48
+	android:name
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:110:13-55
+activity#com.qualcomm.qti.EMTechOTA.activities.CustomUpgradeActivity
+ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:117:9-123:20
+	android:screenOrientation
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:122:13-49
+	android:parentActivityName
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:121:13-66
+	android:label
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:120:13-35
+	android:configChanges
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:119:13-48
+	android:name
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:118:13-61
+service#com.qualcomm.qti.EMTechOTA.services.GAIAGATTBLEService
+ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:125:9-127:40
+	android:exported
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:127:13-37
+	android:name
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:126:13-56
+service#com.qualcomm.qti.EMTechOTA.services.GAIABREDRService
+ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:129:9-131:40
+	android:exported
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:131:13-37
+	android:name
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml:130:13-54
+uses-sdk
+INJECTED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml
+MERGED from [:blelibrary] C:\Users\user\Desktop\Controler\EMTechOTA\blelibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-14:41
+MERGED from [:blelibrary] C:\Users\user\Desktop\Controler\EMTechOTA\blelibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-14:41
+MERGED from [:gaialibrary] C:\Users\user\Desktop\Controler\EMTechOTA\gaialibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-14:41
+MERGED from [:gaialibrary] C:\Users\user\Desktop\Controler\EMTechOTA\gaialibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-14:41
+MERGED from [:vmupgradelibrary] C:\Users\user\Desktop\Controler\EMTechOTA\vmupgradelibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-14:41
+MERGED from [:vmupgradelibrary] C:\Users\user\Desktop\Controler\EMTechOTA\vmupgradelibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\62f52573b0cb4a7f530f903fa4a8f368\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\62f52573b0cb4a7f530f903fa4a8f368\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\397810ba7e3999bfbf3b76f43f992744\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\397810ba7e3999bfbf3b76f43f992744\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\71959656807e22489e850b3d38a87c61\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\71959656807e22489e850b3d38a87c61\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\551958d83966181db3321f57f28d1b2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\551958d83966181db3321f57f28d1b2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\ca570d4947cc178b739faa72a9b5081a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\ca570d4947cc178b739faa72a9b5081a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\43234cbfb1e6242ab97bf3598a9a7198\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\43234cbfb1e6242ab97bf3598a9a7198\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\3d003f5ecff0766290a9a613c728d2c4\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\3d003f5ecff0766290a9a613c728d2c4\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\7831df23fac2f13ba7fc28fa05c5ab01\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\7831df23fac2f13ba7fc28fa05c5ab01\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\dce37c5aed22dad0dad8269bc63f92f1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\dce37c5aed22dad0dad8269bc63f92f1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\d979bf2707b83dd72b3e9997ea8f6064\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\d979bf2707b83dd72b3e9997ea8f6064\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\b03f21fe8f0a875bee1a899bad992ef6\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\b03f21fe8f0a875bee1a899bad992ef6\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ac7fa8dd090a2ba42c990731b75583ba\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ac7fa8dd090a2ba42c990731b75583ba\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\62f52573b0cb4a7f530f903fa4a8f368\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\Controler\EMTechOTA\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\62f52573b0cb4a7f530f903fa4a8f368\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\397810ba7e3999bfbf3b76f43f992744\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\397810ba7e3999bfbf3b76f43f992744\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\71959656807e22489e850b3d38a87c61\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\71959656807e22489e850b3d38a87c61\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\551958d83966181db3321f57f28d1b2e\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\551958d83966181db3321f57f28d1b2e\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\ca570d4947cc178b739faa72a9b5081a\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\ca570d4947cc178b739faa72a9b5081a\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\43234cbfb1e6242ab97bf3598a9a7198\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\43234cbfb1e6242ab97bf3598a9a7198\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\3d003f5ecff0766290a9a613c728d2c4\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\3d003f5ecff0766290a9a613c728d2c4\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\7831df23fac2f13ba7fc28fa05c5ab01\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\7831df23fac2f13ba7fc28fa05c5ab01\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\dce37c5aed22dad0dad8269bc63f92f1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\dce37c5aed22dad0dad8269bc63f92f1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\d979bf2707b83dd72b3e9997ea8f6064\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\d979bf2707b83dd72b3e9997ea8f6064\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\b03f21fe8f0a875bee1a899bad992ef6\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\b03f21fe8f0a875bee1a899bad992ef6\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ac7fa8dd090a2ba42c990731b75583ba\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\ac7fa8dd090a2ba42c990731b75583ba\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\62f52573b0cb4a7f530f903fa4a8f368\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\user\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\62f52573b0cb4a7f530f903fa4a8f368\AndroidManifest.xml:26:9-47

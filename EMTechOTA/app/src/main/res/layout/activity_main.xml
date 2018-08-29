@@ -1,0 +1,76 @@
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  ~ Copyright 2017 Qualcomm Technologies International, Ltd.                                      ~
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:context="com.qualcomm.qti.EMTechOTA.activities.MainActivity"
+                tools:ignore="NestedWeights">
+
+    <include
+        android:id="@+id/tb_menu"
+        layout="@layout/toolbar"/>
+
+    <include
+        android:id="@+id/l_snack_bar"
+        layout="@layout/snack_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tb_menu"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:id="@+id/ll_features_buttons"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_below="@id/l_snack_bar"
+        android:padding="@dimen/margin_tiles">
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#000000"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:id="@+id/txt_mode"
+            android:text="Main Menu"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:textColor="#000000"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#000000"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#FFFFFF"
+            android:layout_marginTop="20dp"/>
+
+            <include
+                android:id="@+id/bt_device_information"
+                style="@style/AppTheme.Tile.Info"
+                layout="@layout/tile_information"
+                android:layout_width="match_parent"
+                android:layout_height="90dp" />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#FFFFFF"
+            android:layout_marginTop="10dp"/>
+            <Button
+                android:id="@+id/bt_upgrade"
+                style="@style/AppTheme.Tile.Default"
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:background="@drawable/tile_upgrade"
+                android:drawableStart="@drawable/ic_upload_80dp"
+                android:text="@string/button_upgrade"/>
+    </LinearLayout>
+
+</RelativeLayout>
